@@ -1,4 +1,2 @@
-server:
-  port: 8082
-some:
-  value: Valor del servidor en test modificado.
+product:
+  product-name: Balón de fútbol
